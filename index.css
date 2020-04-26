@@ -40,7 +40,9 @@ a {
 	color: #000
 }
 
-
+#r{
+	color: red;
+}
 @keyframes change {
     	0%  { color:  #0f0; }
     	50% { color:  #0f0; }
